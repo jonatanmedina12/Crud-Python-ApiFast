@@ -21,8 +21,8 @@
 
 Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 
-- Python 3.12+
-- pip (gestor de paquetes de Python)
+- Python 3.8+
+- pip install -r .\requirements.txt
 
 ## Instalación
 
